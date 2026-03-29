@@ -1,0 +1,12 @@
+*.exe
+*.mp4
+*.zip
+*.db
+*.xlsx
+*.png
+*.jpg
+*.exe
+Library/
+Temp/
+Build/
+node_modules/
